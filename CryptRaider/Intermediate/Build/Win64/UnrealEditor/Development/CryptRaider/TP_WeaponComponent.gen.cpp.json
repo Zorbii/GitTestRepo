@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\source\\cryptraider\\tp_weaponcomponent.h",
+            "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

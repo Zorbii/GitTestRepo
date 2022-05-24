@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UE_5.0\\UnrealProjects\\UdemyCourse\\GitTestRepo\\CryptRaider\\Source\\CryptRaider\\CryptRaider.Build.cs",
+		"E:\\UE_5.0\\UnrealProjects\\UdemyCourse\\GitTestRepo\\CryptRaider\\Source\\CryptRaider.Target.cs",
+		"E:\\UE_5.0\\UnrealProjects\\UdemyCourse\\GitTestRepo\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}
