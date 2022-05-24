@@ -14,13 +14,7 @@
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\Config\DefaultEditor.ini">
-      <Filter>Config</Filter>
-    </None>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultGame.ini">
@@ -28,6 +22,18 @@
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
     </None>
     <Filter Include="Source\CryptRaider">
       <UniqueIdentifier>{B1CCF47D-A81A-3537-B976-477CAC6760B4}</UniqueIdentifier>
@@ -71,5 +77,11 @@
     <ClInclude Include="..\..\Source\CryptRaider\TP_WeaponComponent.h">
       <Filter>Source\CryptRaider</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\CryptRaider\Mover.h">
+      <Filter>Source\CryptRaider</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CryptRaider\Mover.cpp">
+      <Filter>Source\CryptRaider</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

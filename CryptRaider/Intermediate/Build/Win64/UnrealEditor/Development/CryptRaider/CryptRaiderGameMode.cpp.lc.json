@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\source\\cryptraider\\cryptraidergamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\source\\cryptraider\\cryptraidergamemode.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\cryptraidergamemode.generated.h",
+            "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\source\\cryptraider\\cryptraidercharacter.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "e:\\ue_5.0\\unrealprojects\\udemycourse\\gittestrepo\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\cryptraidercharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
