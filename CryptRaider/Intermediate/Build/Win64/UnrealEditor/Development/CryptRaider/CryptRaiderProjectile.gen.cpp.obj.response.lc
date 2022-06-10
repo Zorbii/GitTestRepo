@@ -1,5 +1,6 @@
 E:\UE_5.0\UnrealProjects\UdemyCourse\GitTestRepo\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Inc\CryptRaider\CryptRaiderProjectile.gen.cpp
 /I .
+/I E:\UE_5.0\UnrealProjects\UdemyCourse\GitTestRepo\CryptRaider\Source\CryptRaider\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
 /I ..\Shaders\Shared
@@ -253,6 +254,7 @@ E:\UE_5.0\UnrealProjects\UdemyCourse\GitTestRepo\CryptRaider\Intermediate\Build\
 /I Developer\AnimationDataController\Public
 /I E:\UE_5.0\UnrealProjects\UdemyCourse\GitTestRepo\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Inc\CryptRaider
 /I E:\UE_5.0\UnrealProjects\UdemyCourse\GitTestRepo\CryptRaider\Source
+/I E:\UE_5.0\UnrealProjects\UdemyCourse\GitTestRepo\CryptRaider\Source\CryptRaider\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh

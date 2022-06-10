@@ -23,10 +23,10 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
-    <None Include="..\..\Config\DefaultEditor.ini">
+    <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
-    <None Include="..\..\Config\DefaultEngine.ini">
+    <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\HoloLens">
@@ -82,6 +82,18 @@
     </ClInclude>
     <ClCompile Include="..\..\Source\CryptRaider\Mover.cpp">
       <Filter>Source\CryptRaider</Filter>
+    </ClCompile>
+    <Filter Include="Source\CryptRaider\Public">
+      <UniqueIdentifier>{AE55E8B1-1289-3FAD-9415-1EFBB700647F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CryptRaider\Public\Grabber.h">
+      <Filter>Source\CryptRaider\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\CryptRaider\Private">
+      <UniqueIdentifier>{708D13E6-430B-3290-8C8D-2A9BA16AC597}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CryptRaider\Private\Grabber.cpp">
+      <Filter>Source\CryptRaider\Private</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
